@@ -40,7 +40,9 @@
     ],
     "uniqCompNum": 12,
     "versionPublish": "4.9.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/adnanfatayerji/Desktop/Websites/www_freeflownation_org"
   },
   "pages": {
     "index.html": {
