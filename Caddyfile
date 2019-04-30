@@ -1,14 +1,14 @@
-:2022 {
+:80 {
     bind 0.0.0.0
     gzip
     root /opt/www_freeflownation/
     log stdout
     git {
-        repo git@github.com:freeflownation/www_freeflownation.git
+        repo https://github.com/freeflownation/www_freeflownation.git
         branch production
         hook /webhook "test9278"
         hook_type generic
-        key /opt/www_freeflownation/id_rsa
+        key /root/.ssh/id_rsa
         path /opt/freeflownation/www_freeflownation/
     }
 }
