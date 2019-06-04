@@ -43,7 +43,9 @@
     ],
     "uniqCompNum": 32,
     "versionPublish": "4.9.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/RoelvanSabben1/Documents/GitHub/www_freeflownation"
   },
   "pages": {
     "index.html": {
