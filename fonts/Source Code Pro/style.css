@@ -1,0 +1,42 @@
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: normal;
+   font-weight: 200;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: normal;
+   font-weight: 300;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: normal;
+   font-weight: 500;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: normal;
+   font-weight: 600;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: normal;
+   font-weight: 900;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Source Code Pro';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///Users/gosam/Documents/GitHub/www_freeflownation//fonts/Source Code Pro/regular.ttf') format('truetype');
+}
