@@ -1417,8 +1417,8 @@ body {
   box-shadow: none !important;
 }
 .cid-rsEDcwVxW3 {
-  padding-top: 60px;
-  padding-bottom: 105px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/boudewijn-huysmans-705525-unsplash-2000x1317.jpg");
 }
 .cid-rsEA8FPORh {
@@ -1689,6 +1689,15 @@ body {
 .cid-rsbcfdHZE4 .progress_value {
   color: #767676;
 }
+.cid-rsbphyY7iv {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rsbphyY7iv .mbr-text,
+.cid-rsbphyY7iv blockquote {
+  color: #767676;
+}
 .cid-rnI80xzcVZ {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1745,15 +1754,6 @@ body {
 }
 .cid-rsblzfm7gl .btn {
   margin: 0 0 .5rem 0;
-}
-.cid-rsbphyY7iv {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rsbphyY7iv .mbr-text,
-.cid-rsbphyY7iv blockquote {
-  color: #767676;
 }
 .cid-rsblSEdMWi {
   padding-top: 0px;
@@ -3149,7 +3149,7 @@ body {
 .cid-rtgqkoSRvc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/doug-linstedt-135670-unsplash-2000x1125.jpg");
 }
 .cid-rtgr4znlaX {
   background: #ffffff;
@@ -3225,6 +3225,31 @@ body {
   .cid-rtgrz4RM2X .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rtgHQbOLVu {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rtgHQbOLVu h3 {
+  text-align: center;
+}
+.cid-rtgHQbOLVu .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rtgHQbOLVu .mbr-content-text {
+  color: #767676;
+}
+.cid-rtgHQbOLVu .panel-item {
+  background: #ffffff;
+}
+.cid-rtgHQbOLVu .card {
+  word-wrap: break-word;
+}
+.cid-rtgHQbOLVu .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
 .cid-rsbtk1IbIn .navbar {
   background: #ffffff;
@@ -3628,30 +3653,63 @@ body {
 .cid-rsbtk1IbIn .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rtgpdKIb0m {
+.cid-rtgERGHTHo {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rtgpdKIb0m h3 {
-  text-align: center;
-}
-.cid-rtgpdKIb0m .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rtgpdKIb0m .mbr-content-text {
+.cid-rtgERGHTHo .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rtgpdKIb0m .panel-item {
-  background: #ffffff;
+.cid-rtgERGHTHo .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
-.cid-rtgpdKIb0m .card {
+.cid-rtgERGHTHo .mbr-text {
+  color: #767676;
+}
+.cid-rtgERGHTHo .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-rtgERGHTHo .mbr-author-name {
+  color: #767676;
+}
+.cid-rtgERGHTHo .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rtgERGHTHo .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rtgERGHTHo .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rtgERGHTHo .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rtgERGHTHo .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
   word-wrap: break-word;
+  word-break: break-word;
+  background: none;
 }
-.cid-rtgpdKIb0m .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+@media (max-width: 300px) {
+  .cid-rtgERGHTHo .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
 .cid-rnIgHwuQTn {
   padding-top: 30px;
