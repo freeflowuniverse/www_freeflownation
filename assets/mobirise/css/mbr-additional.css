@@ -4850,17 +4850,17 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/anastasia-dulgier-1156050-unsplash-2000x1250.jpg");
 }
-.cid-rth15UBQLU {
-  padding-top: 90px;
+.cid-rtiyGeICmD {
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rth15UBQLU .mbr-section-subtitle {
+.cid-rtiyGeICmD .mbr-section-subtitle {
   color: #767676;
   text-align: center;
   font-weight: 300;
 }
-.cid-rth15UBQLU .step {
+.cid-rtiyGeICmD .step {
   width: 64px;
   height: 64px;
   font-size: 32px;
@@ -4868,16 +4868,16 @@ body {
   border: 2px solid #efefef;
 }
 @media (max-width: 767px) {
-  .cid-rth15UBQLU .step {
+  .cid-rtiyGeICmD .step {
     width: 48px;
     height: 48px;
     font-size: 24px;
   }
 }
-.cid-rth15UBQLU .separline {
+.cid-rtiyGeICmD .separline {
   position: relative;
 }
-.cid-rth15UBQLU .separline:after {
+.cid-rtiyGeICmD .separline:after {
   top: 68px;
   left: 30px;
   position: absolute;
@@ -4887,7 +4887,7 @@ body {
   background-color: #efefef;
 }
 @media (max-width: 767px) {
-  .cid-rth15UBQLU .separline:after {
+  .cid-rtiyGeICmD .separline:after {
     top: 52px;
     left: 22px;
     height: calc(100% - 56px);
