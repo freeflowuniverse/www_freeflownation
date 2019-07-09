@@ -44,11 +44,11 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Fredericka the Great', display;
-  font-size: 2rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.75rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.8rem;
 }
 .display-7 {
   font-family: 'Roboto Condensed', sans-serif;
@@ -79,9 +79,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.4rem;
+    font-size: calc( 1.2625rem + (1.75 - 1.2625) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.2625rem + (1.75 - 1.2625) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
