@@ -1,4 +1,4 @@
-:9092 {
+:8080 {
     bind 0.0.0.0
     gzip
     root /opt/www_freeflownation/
