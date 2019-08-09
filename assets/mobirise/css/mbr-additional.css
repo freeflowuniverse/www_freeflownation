@@ -2580,7 +2580,7 @@ body {
 .cid-rto0aNybtb {
   padding-top: 120px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/doug-linstedt-135670-unsplash-2000x1125.jpg");
+  background-image: url("../../../assets/images/doug-linstedt-135670-unsplash-1-2000x1125.jpg");
 }
 .cid-rto29ABDwh {
   background: #ffffff;
@@ -5187,7 +5187,7 @@ body {
   text-align: right;
 }
 .cid-rymWXI25LE {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -12963,7 +12963,7 @@ body {
   }
 }
 .cid-rwuG8IpHTO .mbr-figure-caption div {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-rwuHbuE55M {
   padding-top: 30px;
@@ -14538,7 +14538,7 @@ body {
   }
 }
 .cid-rwuG8IpHTO .mbr-figure-caption div {
-  color: #fde4a3;
+  color: #ade9b7;
 }
 .cid-rwuHbuE55M {
   padding-top: 30px;
@@ -15165,7 +15165,7 @@ body {
 .cid-rto0aNybtb {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/bob-blob-ycw4yxhrwhm-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/bob-blob-ycw4yxhrwhm-unsplash-1-2000x1333.jpg");
 }
 .cid-rto0TtMW5S {
   padding-top: 45px;
@@ -15898,7 +15898,7 @@ body {
 .cid-rto0aNybtb {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/andrew-stutesman-l68z6ef2pea-unsplash-2000x1329.jpg");
+  background-image: url("../../../assets/images/andrew-stutesman-l68z6ef2pea-unsplash-1-2000x1329.jpg");
 }
 .cid-rto2DZWPCB {
   padding-top: 45px;
@@ -17716,8 +17716,20 @@ body {
 .cid-rnIgHwuQTn foot-menu-item {
   text-align: right;
 }
-.cid-ruGPTBuTvi {
+.cid-ryEenwwIIQ {
   padding-top: 120px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-ryEenwwIIQ P {
+  color: #767676;
+}
+.cid-ryEenwwIIQ .mbr-text,
+.cid-ryEenwwIIQ .mbr-section-btn {
+  color: #232323;
+}
+.cid-ruGPTBuTvi {
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
