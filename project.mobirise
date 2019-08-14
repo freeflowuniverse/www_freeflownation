@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlowNation",
-    "currentPage": "get-involved.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -65,9 +65,7 @@
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/iconfinder-pen-stroke-sketch-doodle-lineart-212-451494-128x128.png",
-    "noImageResize": "",
-    "publishType": "local",
-    "publishPath": "file:///Users/gosam/Documents/GitHub/www_freeflownation"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
