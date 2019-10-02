@@ -1,6 +1,24 @@
 :8080 {
     bind 0.0.0.0
     gzip
-    root .  
-    log stdout
+    root .
+}
+
+:8080/partners_data {
+    bind 0.0.0.0
+    gzip
+    root ../data_partners/partners
+}
+
+:8080/team_data {
+    bind 0.0.0.0
+    gzip
+    root ../data_team/team
+}
+
+:8080/jumpscaleX_weblibs {
+
+    bind 0.0.0.0
+    gzip
+    root ../jumpscaleX_weblibs
 }

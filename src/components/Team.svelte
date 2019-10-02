@@ -34,9 +34,9 @@
 <div>
   <div class="intro mb-5">
     <h1>
-      <b>THREEFOLD TEAM</b>
+      THREEFOLD TEAM
     </h1>
-    <h6>The heartbeat behind the technology.</h6>
+    <p>The heartbeat behind the technology.</p>
   </div>
   {#if coreHtml}
     <h2 class="mt-5">Organization</h2>

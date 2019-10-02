@@ -124,6 +124,37 @@ section .mbr-background-video-preview {
   text-align: right;
 }
 
+.dynamic-sec{
+  padding :70px 0 !important ;
+  font-family: 'Source Code Pro', monospace;
+  color: #000;
+}
+
+.dynamic-sec h2{
+  text-align: center;
+  font-size: 1.75rem;
+  line-height: 1.3;
+  font-weight: 500;
+}
+
+.dynamic-sec p{
+  color: #767676 !important;
+}
+.dynamic-sec .intro{
+  text-align: center;
+
+}
+
+.rj-team .rj-team-member {
+    margin: 0.5rem 0 !important;
+  }
+
+.rj-team .rj-team-member .rj-team-member-photo-rollover{
+  height: 100px;
+    width: auto !important;
+    border-radius: 50%;
+}
+
 @media (max-width: 767px) {
   .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
     text-align: center;
