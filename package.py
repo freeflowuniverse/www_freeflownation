@@ -9,7 +9,7 @@ class Package(j.baseclasses.threebot_package):
     JSX> cl.actors.package_manager.package_add(git_url="https://github.com/freeflownation/www_freeflownation/tree/development")
     """
     DOMAIN = "www2.freeflownation.org"
-    name = "www2_freeflownation"
+    name = "www2_freeflownation_org"
     def start(self):
         server = self.openresty
         server.configure()
