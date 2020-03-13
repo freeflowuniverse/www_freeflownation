@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlowNation",
-    "currentPage": "talamanca-land-bank.html",
+    "currentPage": "threefold-network.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -782,7 +782,7 @@
       "settings": {
         "meta_descr": "Project: Innovation Lab Schools",
         "title": "FreeFlow: Innovation Lab Schools",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -797,6 +797,9 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
@@ -1719,6 +1722,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header1",
@@ -2443,6 +2449,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header1",
@@ -13042,7 +13051,7 @@
       "settings": {
         "meta_descr": "Project: Global SDG Projects",
         "title": "FreeFlow: Global SDG Projects",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -13057,6 +13066,9 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
@@ -13947,6 +13959,9 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
@@ -14579,6 +14594,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header1",
@@ -15454,7 +15472,7 @@
       "settings": {
         "meta_descr": "Project: GoldFlow Token",
         "title": "FreeFlow: GoldFlow Token",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -15469,6 +15487,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header1",
@@ -16860,7 +16881,7 @@
       "settings": {
         "meta_descr": "Project: Kairospace Technologies",
         "title": "FreeFlow: Kairospace Technologies",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -16877,7 +16898,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "header1",
@@ -17434,6 +17455,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header1",
@@ -18233,7 +18257,7 @@
       "settings": {
         "meta_descr": "Project: Frequency Village",
         "title": "FreeFlow: Frequency Village",
-        "order": 8
+        "order": 4
       },
       "components": [
         {
@@ -18250,7 +18274,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ade9b7"
             },
             "H1": {
