@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlowNation",
-    "currentPage": "kairospace-technologies.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,7 +67,7 @@
       }
     ],
     "uniqCompNum": 383,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/iconfinder-pen-stroke-sketch-doodle-lineart-212-451494-128x128.png",
     "noImageResize": false,
