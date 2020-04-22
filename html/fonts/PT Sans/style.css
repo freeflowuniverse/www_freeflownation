@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'PT Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/kristinevilnite/Documents/GitHub/FFN/www_freeflownation/html/fonts/PT Sans/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/kristinevilnite/Documents/GitHub/FFN/www_freeflownation/html/fonts/PT Sans/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/kristinevilnite/Documents/GitHub/FFN/www_freeflownation/html/fonts/PT Sans/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/kristinevilnite/Documents/GitHub/FFN/www_freeflownation/html/fonts/PT Sans/700italic.ttf') format('truetype');
+}
