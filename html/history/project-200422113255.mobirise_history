@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlowNation",
-    "currentPage": "index.html",
+    "currentPage": "get-involved.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -107,9 +107,9 @@
       }
     ],
     "uniqCompNum": 389,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/e1855ec756f425b054d7c567a57e95b2-dark-earth-icon-by-vexels-128x128-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/e1855ec756f425b054d7c567a57e95b2-dark-earth-icon-by-vexels-128x128_2.png",
     "noImageResize": null,
     "cookiesAlert": {
       "colorText": "#424a4d",
@@ -125,7 +125,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "file:///Users/kristinevilnite/Documents/GitHub/FFN/www_freeflownation"
   },
   "pages": {
     "index.html": {
