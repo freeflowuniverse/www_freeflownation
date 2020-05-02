@@ -3901,19 +3901,21 @@ section.lazy-placeholder:after {
   color: #82786e;
 }
 .cid-rWqsFHcGaO {
-  background-image: url("../../../assets/images/erth-header-1920x1200.png");
+  background-image: url("../../../assets/images/asutonomous-header-1920x1104.png");
 }
 .cid-rWqsFHcGaO H1 {
-  color: #0f7699;
+  color: #149dcc;
+  text-align: center;
 }
 .cid-rWqsFHcGaO .mbr-text,
 .cid-rWqsFHcGaO .mbr-section-btn {
-  color: #073b4c;
+  color: #0f7699;
+  text-align: right;
 }
 .cid-rX3PhYWItD {
   padding-top: 135px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rX3PhYWItD .mbr-section-subtitle,
 .cid-rX3PhYWItD .mbr-text {
@@ -3944,7 +3946,7 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
 }
 .cid-rX3PhYWItD .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
+  background-color: #efefef;
   display: none;
   transition: opacity .3s;
 }
@@ -3961,7 +3963,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-rX3PhYWItD .card-wrapper .card-box {
-  background-color: #ffffff;
+  background-color: #efefef;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -4008,7 +4010,7 @@ section.lazy-placeholder:after {
 .cid-rX3RqZ4oQG {
   padding-top: 0px;
   padding-bottom: 135px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rX3RqZ4oQG .mbr-section-subtitle,
 .cid-rX3RqZ4oQG .mbr-text {
@@ -4039,7 +4041,7 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
 }
 .cid-rX3RqZ4oQG .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
+  background-color: #efefef;
   display: none;
   transition: opacity .3s;
 }
@@ -4056,7 +4058,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-rX3RqZ4oQG .card-wrapper .card-box {
-  background-color: #ffffff;
+  background-color: #efefef;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
