@@ -6046,6 +6046,49 @@ section.lazy-placeholder:after {
 .cid-rToTnd0fCZ .item-name {
   color: #635a51;
 }
+.cid-rY1uqIG9tI {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rY1uqIG9tI .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rY1uqIG9tI .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rY1uqIG9tI .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rY1uqIG9tI .team-item .item-image img {
+  width: 100%;
+}
+.cid-rY1uqIG9tI .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rY1uqIG9tI .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rY1uqIG9tI .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rY1uqIG9tI .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rY1uqIG9tI .team-item .item-caption {
+  background: #ffffff;
+}
+.cid-rY1uqIG9tI .item-role P {
+  text-align: left;
+}
 .cid-rNQbXmxJQt {
   padding-top: 30px;
   padding-bottom: 30px;
