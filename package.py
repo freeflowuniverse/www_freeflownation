@@ -7,8 +7,8 @@ class Package(j.baseclasses.threebot_package):
     JSX> cl = j.clients.gedis.get("abc", port=8901, package_name="zerobot.packagemanager")
     JSX> cl.actors.package_manager.package_add(git_url="https://github.com/freeflownation/www_freeflownation/tree/master")
     """
-    DOMAIN = "www2.freeflownation.org"
-    name = "www2_freeflownation_org"
+    DOMAIN = "www.freeflownation.org"
+    name = "www_freeflownation_org"
     def start(self):
         server = self.openresty
         server.configure()
