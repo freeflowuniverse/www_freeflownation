@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlowNation",
-    "currentPage": "1-billion-people.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -107,7 +107,7 @@
       }
     ],
     "uniqCompNum": 396,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/e1855ec756f425b054d7c567a57e95b2-dark-earth-icon-by-vexels-128x128-2.png",
     "noImageResize": null,
