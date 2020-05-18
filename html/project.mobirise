@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlowNation",
-    "currentPage": "people.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -128,7 +128,7 @@
     "imageResize": true,
     "modified": "2020-05-05T15:58:27.335Z",
     "publishType": "local",
-    "publishPath": "file:///Users/RoelvanSabben1/Documents/GitHub/www_freeflownation"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
