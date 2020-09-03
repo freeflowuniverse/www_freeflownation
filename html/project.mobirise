@@ -126,7 +126,9 @@
     "siteUrl": false,
     "gdpr": false,
     "imageResize": true,
-    "modified": "2020-05-05T15:58:27.335Z"
+    "modified": "2020-05-05T15:58:27.335Z",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
