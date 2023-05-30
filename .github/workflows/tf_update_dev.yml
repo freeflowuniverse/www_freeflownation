@@ -1,0 +1,22 @@
+name: www2.freeflownation.org
+on:
+  push:
+    branches: [ development ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on www2.freeflownation.org
+      uses: appleboy/ssh-action@master
+      with:
+        host: www2.freeflownation.org
+        username: webuser
+        key: ${{ secrets.TF_SECRET }}
+        port: 34022
+        script: |
+          cd websites/www2/www_freeflownation/
+          git log -1
+          git restore .
+          git pull
