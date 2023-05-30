@@ -1,21 +1,22 @@
-name: freeflownation
-on: 
+name: freeflownation.org
+on:
   push:
-    branch: [ development ]
+    branches: [ master ]
 
 jobs:
   job_one:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: pushing latest change on www.freeflownation.org
+    - name: pushing latest change on freeflownation.org
       uses: appleboy/ssh-action@master
       with:
         host: freeflownation.org
-        username: ${{ secrets.TF_USER }}
+        username: webuser
         key: ${{ secrets.TF_SECRET }}
-        port: ${{ secrets.TF_PORT }}
+        port: 34022
         script: |
-          cd ~/websites/www_freeflownation
+          cd websites/www_freeflownation/
           git log -1
+          git restore .
           git pull
